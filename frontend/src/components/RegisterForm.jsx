@@ -70,7 +70,7 @@ const RegisterForm = () => {
         </div>
 
         <div className="auth-right">
-          <img src="/images/register.png" alt="register" />
+          <img src="/images/register.jpg" alt="register" />
         </div>
       </div>
     </div>
